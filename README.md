@@ -5,13 +5,13 @@ A school district needs an analysis to present to the school board on anonymized
 
 1. A high-level snapshot of the district's key metrics, presented in a table format
 2. An overview of the key metrics for each school, presented in a table format
-3. Tables presenting each of the following metrics:
-    a. Top 5 and bottom 5 performing schools, based on the overall passing rate
-    b. The average math score received by students in each grade level at each school
-    c. The average reading score received by students in each grade level at each school
-    d. School performance based on the budget per student
-    e. School performance based on the school size 
-    f. School performance based on the type of school
+3. Tables presenting each of the following metrics: \newline
+    a. Top 5 and bottom 5 performing schools, based on the overall passing rate \newline
+    b. The average math score received by students in each grade level at each school \newline
+    c. The average reading score received by students in each grade level at each school \newline
+    d. School performance based on the budget per student \newline
+    e. School performance based on the school size \newline
+    f. School performance based on the type of school \newline
 
 ## Resources
 - Data Sources: students_complete.csv, schools_complete.csv
