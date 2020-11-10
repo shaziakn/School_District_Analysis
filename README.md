@@ -26,5 +26,5 @@ A school district needs an analysis to present to the school board on anonymized
 
 
 | Total Schools	| Total Students | Total Budget | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
--------------------------------------------------------------------------------------------------------------------------------------------------------
+|---------------|----------------|--------------|--------------------|-----------------------|----------------|-------------------|-------------------|
 | 15	        | 39,170	     |$24,649,428.00|	79.0	         |        81.9	         |     75	      |           86	  | 65                |
