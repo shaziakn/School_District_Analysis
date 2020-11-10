@@ -25,3 +25,6 @@ A school district needs an analysis to present to the school board on anonymized
 - As a whole, charter schools out-performed the public district schools across all metrics. However, more analysis will be required to glean if the effect is due to school practices or the fact that charter schools tend to serve smaller student populations per school.
 
 
+| Total Schools	| Total Students | Total Budget | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+| 15	        | 39,170	     |$24,649,428.00|	79.0	         |        81.9	         |     75	      |           86	  | 65                |
